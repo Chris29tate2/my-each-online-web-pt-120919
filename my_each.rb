@@ -1,7 +1,6 @@
-collection = [1, 2, 3, 4]
-loop do 
-  counter 0 
-  [counter += 1]
- my_each(collection) do |i|
- puts i
-end
+def = my_each(array)
+  list = ["1, 2, 3 , 4"]
+  while i < array[i])
+  puts "i want to learn this"
+  i = list
+  counter = list += 
