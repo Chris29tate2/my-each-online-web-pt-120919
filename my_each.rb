@@ -3,4 +3,4 @@ def = my_each(array)
   while i < array[i])
   puts "i want to learn this"
   i = list
-  counter = list += 
+  counter = list += 0
